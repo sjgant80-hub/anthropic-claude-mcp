@@ -1,0 +1,7 @@
+{
+  "name": "anthropic-claude-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Anthropic Claude",
+  "tools": [],
+  "resources": []
+}
